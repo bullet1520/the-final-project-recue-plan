@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7285cd9f541c64842b5b875a62415b03
+timeCreated: 1512674050
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Induction
+  fontNames:
+  - Induction
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

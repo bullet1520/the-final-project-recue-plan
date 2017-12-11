@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 22c7eeaa8341d754489c9579940a0423
+timeCreated: 1512674050
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Sports Night
+  fontNames:
+  - SF Sports Night
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

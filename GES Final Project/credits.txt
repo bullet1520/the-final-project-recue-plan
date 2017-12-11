@@ -1,0 +1,6 @@
+monolith texture: https://www.filterforge.com/filters/10458-v4.html
+music: Dale Laakkonen
+Design & Programming: Eric Andruszko
+Help: Countless youtube videos
+ProBuilder Basic from Unity Asset Store
+Ground Texture Pack from Unity Asset Store
